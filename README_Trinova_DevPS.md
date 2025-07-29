@@ -17,11 +17,11 @@ Trinova DevPS es un proyecto personal completo que simula una plataforma para ge
 
 | Tecnología      | Uso aproximado |
 |----------------|----------------|
-| PHP            | 40%            |
-| MySQL          | 20%            |
-| HTML + CSS     | 15%            |
-| Bootstrap      | 10%            |
-| JavaScript     | 10%            |
+| PHP            | 50%            |
+| MySQL          | 30%            |
+| HTML + CSS     | 65%            |
+| Bootstrap      | 40%            |
+| JavaScript     | 40%            |
 | Tailwind CSS   | 5%             |
 
 ## 🗂️ Estructura del proyecto
@@ -41,23 +41,13 @@ Trinova DevPS es un proyecto personal completo que simula una plataforma para ge
 /screenshots/proyectos_cliente.png
 ```
 
-## 🚀 Cómo ejecutar el proyecto
+## 🚀 Url del proyecto
 
-1. Clona el repositorio:  
-   `git clone https://github.com/tu_usuario/trinova-devps.git`
-
-2. Importa la base de datos desde `/database/trinova.sql`
-
-3. Configura la conexión en el archivo `/config/db.php`
-
-4. Abre en tu navegador:  
-   `http://localhost/trinova-devps/public`
-
-> Requiere tener instalado XAMPP o similar (PHP + MySQL).
+trinovadevps.com
 
 ## 📅 Planeación
 
-Este proyecto fue planificado y gestionado con tableros Kanban y Gantt usando Azure DevOps Boards. Se documentaron los avances, tareas y entregas desde su concepción hasta la versión funcional.
+Este proyecto fue planificado y gestionado con tableros Kanban y Gantt usando Azure DevOps Boards.
 
 ## 👤 Autor
 
