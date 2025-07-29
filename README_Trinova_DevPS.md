@@ -43,7 +43,7 @@ Trinova DevPS es un proyecto personal completo que simula una plataforma para ge
 
 ## 🚀 Url del proyecto
 
-trinovadevps.com
+https://trinovadevps.com/
 
 ## 📅 Planeación
 
