@@ -33,13 +33,7 @@ Trinova DevPS es un proyecto personal completo que simula una plataforma para ge
 - `/views` – Plantillas para frontend
 - `/assets` – Archivos estáticos (CSS, JS, imágenes)
 
-## 📸 Capturas (agregar después)
 
-```bash
-/screenshots/login.png
-/screenshots/dashboard_admin.png
-/screenshots/proyectos_cliente.png
-```
 
 ## 🚀 Url del proyecto
 
